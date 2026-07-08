@@ -38,10 +38,7 @@
 - Assignment 29
 - Assignment 30
 
-## 🌐 Hosted Website
 
-**Live Link:**  
-https://gargigogulwar.github.io/FSDL-Practicals/
 
 ## 📂 Repository
 
